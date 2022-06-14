@@ -1,7 +1,8 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              KING-TIGGER 𝓫𝔂 prabhsh laknindu
+//SINHALA EDITz and all prabhsha (tiggerk)
+සියලුම දඑවල් කින්ග් ටිගෙර් සතුය.for copying for nexus gojusatoru.
 //
 //════════════════════════════//
 
@@ -19,32 +20,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['94704045022']
+global.premium = ['94704045022']
+global.ownernomer = '94704045022'
+global.ownername = 'KING TIGGER WHA BOT'
+global.botname = 'PRABHSHA LAKNINDU KULATHUNGA '
+global.footer = '©Slkingtigger'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = 'tiggerkingprabhsha'
+global.author = 'prabhash king 🐅 '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','⚠️️','🐅','👑']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    owner: 'ඔයලට මෙක කරන්න බා!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    bot: 'මෙක කරන්න පුලුවන් බොටාට විතරයි.',
+    wait: 'පොඩ්ඩක් ඉන්නකො...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'ඔයාගෙ දවසෙ බාවිතා කල හකි අවස්ථා අවසන් වි තිබේ.try for 12 hours',
 }
     global.limitawal = {
     premium: "Infinity",
