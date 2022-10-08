@@ -22,18 +22,18 @@ global.APIKeys = {
 global.owner = ['94704045022']
 global.premium = ['94704045022']
 global.ownernomer = '94704045022'
-global.ownername = '🐅KING TIGGER BOT'
-global.botname = 'KING T BOTZ'
-global.footer = '©NexusNwInc.'
+global.ownername = '😈𝐃𝐀𝐑𝐊 𝐃𝐄𝐕𝐈𝐋 𝐁𝐎𝐓'
+global.botname = '➸𝐃𝐄𝐕𝐈𝐋 𝐁𝐎𝐓྅'
+global.footer = '©👹.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtu.be/De0-CuIBcKI'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.myweb = 'https://youtu.be/4HoYZwUux4U'
+global.packname = 'DARK DEVIL'
+global.author = '👹Devil'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.prefa = ['','!','.','🤡','👹','😈']
+global.sp = '❀'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
